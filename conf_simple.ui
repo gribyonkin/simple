@@ -58,7 +58,7 @@
             "handler_password": ""
         },
         "host_uid": "d66f9bc9f59b48149da66e1a0ec26039",
-        "ConfigurationTags": "",
+        "ConfigurationTags": "Py,off-line",
         "agent": false,
         "ForegroundService": false,
         "StopForegroundServiceOnExit": false,
@@ -71,8 +71,11 @@
         "MenuWebTemplate": "",
         "Launch": "",
         "GitHubHandlers": "https://api.github.com/repos/gribyonkin/simple/contents/py_main.py",
-        "GitHubToken": "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",
+        "GitHubToken": "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",
         "uid": "3b704eb7fc964c45990497b024604a85",
-        "PyHandlers": "aW1wb3J0IGpzb24KCmRlZiBmdW4xKGhhc2hNYXAsX2ZpbGVzPU5vbmUsX2RhdGE9Tm9uZSk6CgogIGhhc2hNYXAucHV0KCJ0b2FzdCIsItCc0L7QuSDQv9C10YDQstGL0Lkg0LrQvtC80LzQuNGCISEhIikKCiAgcmV0dXJuIGhhc2hNYXAK"
+        "PyHandlers": "aW1wb3J0IGpzb24KCmRlZiBmdW4xKGhhc2hNYXAsX2ZpbGVzPU5vbmUsX2RhdGE9Tm9uZSk6CgogIGhhc2hNYXAucHV0KCJ0b2FzdCIsItCc0L7QuSDQv9C10YDQstGL0Lkg0LrQvtC80LzQuNGCISEhIikKCiAgcmV0dXJuIGhhc2hNYXAK",
+        "ConfigurationFileName": "",
+        "HTMLHead": "",
+        "RunPython": true
     }
 }
